@@ -59,8 +59,11 @@ span.inline{
     width: 130px;
     height: 70px;
     padding: 5px;
+    font-size: 40px;
+    color: gray;
+    margin-right: 15px;
     border: 1px solid rgb(238, 238, 245);    
-    background-color: rgb(204, 204, 200);
+    background-color: rgb(222, 222, 221);
     border-radius: 5px;
     text-align: center; 
     padding-top: 10px;
@@ -69,9 +72,11 @@ span.color-inline{
     display: inline-block;
     width: 130px;
     height: 70px;
-    padding: 5px;
-    border: 1px solid rgb(222, 11, 11);    
-    background-color: rgb(245, 93, 93);
+    font-size: 40px;
+    margin-right: 15px;
+    color: #FF5959;
+    border: 2px solid rgb(222, 11, 11);    
+    background-color: rgb(233, 202, 202);
     border-radius: 5px;
     text-align: center; 
     padding-top: 10px; 
