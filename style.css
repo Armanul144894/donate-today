@@ -54,7 +54,7 @@ pre{
 .donation-amount h1{
     font-size: 40px;
 }
-span.a{
+span.inline{
     display: inline-block;
     width: 130px;
     height: 70px;
@@ -65,7 +65,7 @@ span.a{
     text-align: center; 
     padding-top: 10px;
 }
-span.b{
+span.color-inline{
     display: inline-block;
     width: 130px;
     height: 70px;
